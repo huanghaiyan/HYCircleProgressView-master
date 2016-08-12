@@ -22,7 +22,7 @@
     
     [progressView setBackgroundStrokeColor:[UIColor lightGrayColor]];
     [progressView setProgressStrokeColor:[UIColor redColor]];
-    [progressView setProgress:0.02 animated:YES];
+    [progressView setProgress:0.13 animated:YES];
 }
 
 - (void)didReceiveMemoryWarning {
